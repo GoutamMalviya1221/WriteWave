@@ -10,7 +10,7 @@ This project focuses on automated and manual testing of the WriteWave applicatio
 📌 Manual Testing & Automation Testing
 
 📂 Directory:
-🎥 Bug Video Walkthrough: Click Here
+🎥 Bug Video Walkthrough: https://drive.google.com/file/d/1kvNZBcGqRlHcUFHjwlAOtzi5HBUo9jdQ/view?usp=sharing
 
 🌟 FEATURES
 📝 Text Editor – Test real-time collaboration & formatting tools.
