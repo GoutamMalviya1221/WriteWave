@@ -9,7 +9,7 @@
 🛠 PROJECT TYPE
 📌 Manual Testing & Automation Testing
 
-📂 Directory:
+
 🎥 Bug Video Walkthrough: https://drive.google.com/file/d/1kvNZBcGqRlHcUFHjwlAOtzi5HBUo9jdQ/view?usp=sharing
 
 🌟 FEATURES
