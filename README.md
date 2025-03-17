@@ -38,4 +38,4 @@ This project focuses on automated and manual testing of the WriteWave applicatio
 🧪 Test Frameworks: TestNG 🛠️
 🐞 Bug Tracking: Jira 📝
 🔗 API Testing: Postman 🌍
-⚡ CI/CD: GitHub Actions 🚀
+
