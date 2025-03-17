@@ -1,6 +1,6 @@
+~~~
 🚀 Project Title: WriteWave
-📌 INTRODUCTION
-This project focuses on automated and manual testing of the WriteWave application. The goal is to ensure a seamless user experience for real-time collaborative writing. The testing process includes:
+📌 INTRODUCTION : This project focuses on automated and manual testing of the WriteWave application. The goal is to ensure a seamless user experience for real-time collaborative writing. The testing process includes:
 ✅ Functional Testing – Ensuring core features work as expected
 🎨 UI/UX Testing – Checking for a smooth and intuitive design
 🔒 Security Testing – Identifying vulnerabilities
