@@ -9,9 +9,9 @@
 🛠 PROJECT TYPE
 📌 Manual Testing & Automation Testing
 
-
-🎥 Bug Video Walkthrough: https://drive.google.com/file/d/1kvNZBcGqRlHcUFHjwlAOtzi5HBUo9jdQ/view?usp=sharing
-
+~~~
+🎥 Bug Video Walkthrough: [https://drive.google.com/file/d/1kvNZBcGqRlHcUFHjwlAOtzi5HBUo9jdQ/view?usp=sharing](https://drive.google.com/file/d/1kvNZBcGqRlHcUFHjwlAOtzi5HBUo9jdQ/view?usp=sharing)
+~~~
 🌟 FEATURES
 📝 Text Editor – Test real-time collaboration & formatting tools.
 👤 User Management – Validate registration, login, and role-based access.
